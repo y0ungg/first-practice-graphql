@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/first-practice-graphql/static/css/main.fcfbee8b.css",
+    "main.js": "/first-practice-graphql/static/js/main.69946e15.js",
+    "index.html": "/first-practice-graphql/index.html",
+    "main.fcfbee8b.css.map": "/first-practice-graphql/static/css/main.fcfbee8b.css.map",
+    "main.69946e15.js.map": "/first-practice-graphql/static/js/main.69946e15.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fcfbee8b.css",
+    "static/js/main.69946e15.js"
+  ]
+}
