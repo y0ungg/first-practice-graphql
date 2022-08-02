@@ -1,0 +1,75 @@
+* {
+  list-style: none;
+  font-family: 'Times New Roman';
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+.App {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+/* my agora states */
+.main {
+  font-size: 4em;
+  font-weight: 300;
+  padding: 1em;
+}
+
+/* section */
+.discussion--section {
+  width: 50%;
+  padding: 2em;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 20px;
+  border: 3px solid rgba(219, 232, 225, 0.403);
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+}
+
+/* list */
+.discussion--li {
+  display: flex;
+  padding: 2em 0;
+}
+
+/* left */
+.left--avatar--wrapper {
+  padding: 1em;
+}
+
+.avatar {
+  width: 3em;
+  border-radius: 50%;
+  border: 0.5px solid gainsboro;
+}
+
+/* middle */
+.middle--title--wrapper {
+  flex: 1;
+  margin: 0 1em;
+  display: flex;
+  flex-direction: column;
+}
+
+.category {
+  width: fit-content;
+  border: 1px solid #f8e9e9;
+}
+
+.author--info {
+  font-style: italic;
+  width: fit-content;
+  background: #f8e9e9;
+}
